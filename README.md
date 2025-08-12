@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AilerssiLP
 - 👀 I’m interested in working out and making websites
-- 🌱  I was the main frontend developer of this website app (Žive Ar the link to the specific project keeps failing so scroll to it) = (https://cherrypeak.eu/sk/projects)
+- 🌱  I was the main frontend developer of this website app - Žive Ar ( the link to the specific project keeps failing so scroll to it) = (https://cherrypeak.eu/sk/projects)
 - 📫 You can contact me on my work email ailerssiklp@gmail.com
 
 <!---
